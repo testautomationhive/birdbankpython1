@@ -1,0 +1,4 @@
+selenium~=4.22.0
+pytest~=8.2.2
+xlrd~=2.0.1
+pytest-html-reporter~=0.2.9
